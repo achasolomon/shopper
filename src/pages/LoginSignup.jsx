@@ -13,7 +13,7 @@ export default function loginSignup() {
         </div>
         <button>Continue</button>
         <p className="loginsignup-login">Already have account? <span>Login</span></p>
-        <div className="loginisgnup-agree">
+        <div className="loginsignup-agree">
           <input type="checkbox" name='' id=''/>
           <p>By continuing, i agree to the terms of use & private policy.</p>
         </div>
